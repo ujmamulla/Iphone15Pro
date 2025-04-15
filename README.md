@@ -14,3 +14,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 Link: https://iphone15pronew.netlify.app/
 
+Basically,this website is made by Three.js,GSAP,SENTRY,REACT FRAMEWORK AND RESPECTIVE GIDES!!!
